@@ -10,6 +10,8 @@ Contactez-moi!
 </p>
 
 Mes environnements de travail : 
+
+
 <img height="60" src="./logos/jupyter.svg">
 <img height="60" src="./logos/anaconda.svg">
 <img height="48" src="./logos/vscode.svg"> &nbsp;&nbsp;
