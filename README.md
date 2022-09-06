@@ -9,6 +9,7 @@ Contactez-moi!
   <a href="mailto:pringchristopher@yahoo.fr"><img height="24" src="https://github.com/mistercof/mistercof/blob/main/mail-icon.png?raw=true"></a>
 </p>
 
-Mes outils préférés :
-
-<img src="https://github.com/mistercof/mistercof/blob/main/logos/jupyter_logo.svg">
+Mes environnements de travail : 
+<p align='center'>
+  <img src="https://github.com/mistercof/mistercof/blob/main/logos/jupyter_logo.svg">
+  <img src="./logos/Anaconda_logo.svg">
