@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 
 Contactez-moi!
 <p align='center'>
-  <a href="https://www.linkedin.com/in/christopher-pring-0101/"><img height="24" src="https://github.com/mistercof/mistercof/blob/master/linkedin-icon.png?raw=true"></a>&nbsp;&nbsp;
+  <a href="https://www.linkedin.com/in/christopher-pring-0101/"><img height="24" src="https://github.com/mistercof/mistercof/linkedin-icon.png?raw=true"></a>&nbsp;&nbsp;
   <a href="https://twitter.com/Chris_Pringle0101"><img height="24" src="https://github.com/mistercof/mistercof/blob/master/twitter_icon.png?raw=true"></a>&nbsp;&nbsp;
   <a href="mailto:pringchristopher@yahoo.fr"><img height="24" src="https://github.com/mistercof/mistercof/blob/master/mail-icon.png?raw=true"></a>
 </p>
