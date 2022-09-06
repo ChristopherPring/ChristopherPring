@@ -10,4 +10,5 @@ Contactez-moi!
 </p>
 
 Mes outils préférés :
-<img src="https://github.com/mistercof/mistercof/blob/main/logos/Jupyter_logo.svg">
+
+<img src="https://github.com/mistercof/mistercof/blob/main/logos/jupyter_logo.svg">
