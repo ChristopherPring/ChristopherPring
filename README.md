@@ -12,8 +12,8 @@ Contactez-moi!
 Mes environnements de travail : 
 
 <p align='center'>
-  <a href="https://jupyter.org"><img height="60" src="./logos/jupyter.svg?raw=true"></a>
-  <a href="https://www.anaconda.com"><img height="60" src="./logos/anaconda.svg?raw=true"></a>
+  <a href="https://jupyter.org"><img height="60" src="./logos/jupyter.svg?raw=true"></a>&nbsp;&nbsp;
+  <a href="https://www.anaconda.com"><img height="48" src="./logos/anaconda.svg?raw=true"></a>&nbsp;&nbsp;
   <a href="https://code.visualstudio.com"><img height="48" src="./logos/vscode.svg?raw=true"></a> &nbsp;&nbsp;
   <a href="https://www.jetbrains.com/fr-fr/pycharm/"><img height="48" src="./logos/pycharm.svg?raw=true"></a>
 </p>
