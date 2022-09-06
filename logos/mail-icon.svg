@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   version="1.1"
+   id="svg2"
+   width="300"
+   height="300"
+   viewBox="0 0 300 300"
+   sodipodi:docname="mail-icon.svg"
+   inkscape:version="1.2 (dc2aedaf03, 2022-05-15)"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <defs
+     id="defs6" />
+  <sodipodi:namedview
+     id="namedview4"
+     pagecolor="#ffffff"
+     bordercolor="#000000"
+     borderopacity="0.25"
+     inkscape:showpageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="0"
+     inkscape:deskcolor="#d1d1d1"
+     showgrid="false"
+     inkscape:zoom="0.97698587"
+     inkscape:cx="-39.406916"
+     inkscape:cy="262.0304"
+     inkscape:window-width="1920"
+     inkscape:window-height="1009"
+     inkscape:window-x="-8"
+     inkscape:window-y="-8"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="g8" />
+  <g
+     inkscape:groupmode="layer"
+     inkscape:label="Image"
+     id="g8">
+    <path
+       id="rect394"
+       style="opacity:0.99;fill:#1fb5f8;fill-opacity:1;stroke:none;stroke-width:0.8;stroke-linejoin:round"
+       d="M 66.53125 0 C 29.673025 0 0 29.673025 0 66.53125 L 0 233.46875 C 0 270.32697 29.673025 300 66.53125 300 L 233.46875 300 C 270.32697 300 300 270.32697 300 233.46875 L 300 66.53125 C 300 29.673025 270.32697 0 233.46875 0 L 66.53125 0 z M 149.99609 85.228516 C 201.40101 85.228516 237.99609 85.601838 237.99609 86.126953 C 237.99609 87.761845 164.93984 161.68157 160.98828 164.04492 C 154.03284 168.20484 143.8648 167.75181 137.05273 162.98047 C 134.08258 160.90009 62.024632 86.963049 62.007812 85.978516 C 62.000765 85.566016 101.59614 85.228516 149.99609 85.228516 z M 55.898438 91.789062 C 56.737337 91.270592 103.2241 137.39834 107.96875 143.45703 L 110.10547 146.18359 L 84.337891 172.45703 C 70.165361 186.90661 58.053447 199.05404 57.421875 199.45117 C 56.790299 199.84827 55.986065 199.8845 55.634766 199.5332 C 54.621787 198.52022 54.881439 92.417599 55.898438 91.789062 z M 244.17188 92.478516 C 244.60818 93.16564 244.97247 117.43991 244.98047 146.41992 C 244.98889 175.39993 244.60648 199.35058 244.13086 199.64453 C 242.89246 200.4099 190.99609 147.66271 190.99609 145.63867 C 190.99609 143.10775 243.18884 90.930347 244.17188 92.478516 z M 114.76953 150.72852 L 124.13281 159.75977 C 135.03392 170.27413 139.02982 172.48046 148.16211 173.03711 C 159.20399 173.71016 163.66797 171.62208 175.29688 160.33789 L 185.17969 150.74609 L 212.14453 177.99219 C 226.97459 192.97701 238.83067 205.68475 238.49219 206.23242 C 237.67549 207.5539 62.349584 207.61 61.533203 206.28906 C 61.213711 205.77211 73.061368 193.0596 87.861328 178.03906 L 114.76953 150.72852 z "
+       inkscape:export-filename="mail-icon.png"
+       inkscape:export-xdpi="96"
+       inkscape:export-ydpi="96" />
+    <rect
+       style="opacity:0.99;fill:#1fb5f8;fill-opacity:1;stroke:none;stroke-width:0.8;stroke-linejoin:round"
+       id="rect859"
+       width="300"
+       height="300"
+       x="-437.05853"
+       y="-37.871582"
+       ry="66.531158" />
+  </g>
+</svg>
