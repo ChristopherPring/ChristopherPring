@@ -10,6 +10,7 @@ Contactez-moi!
 </p>
 
 Mes environnements de travail : 
-<p align='center'>
-  <img src="https://github.com/mistercof/mistercof/blob/main/logos/jupyter_logo.svg">
-  <img src="./logos/Anaconda_logo.svg">
+<img height="60" src="./logos/Jupyter.svg">
+<img height="60" src="./logos/Anaconda.svg">
+<img height="48" src="./logos/vscode.svg"> &nbsp;&nbsp;
+<img height="48" src="./logos/PyCharm_Icon.svg">
